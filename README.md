@@ -7,9 +7,9 @@
   main.css
  imports/
   api/
-    collectionName/
+    users/
       methods.js
-      collectionName.js
+      users.js
     ...
   startup/
     both/
@@ -62,6 +62,7 @@ import '/imports/api/users/collectionName.js'
 ```
 //layouts
 import '/imports/ui/layouts/'
+//components
 import '/imports/ui/components/navbar/'
 import '/imports/ui/components/sidenav/'
 import '/imports/ui/components/footer/'

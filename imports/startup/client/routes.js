@@ -20,6 +20,6 @@ defaultRouter.route('/', {
 
 FlowRouter.notFound = {
     action: function() {
-
+        BlazeLayout.render('default', {page: 'notFound'})
     }
 };

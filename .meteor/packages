@@ -28,5 +28,5 @@ session@1.1.7
 momentjs:moment
 email@1.2.3
 alanning:roles
-twbs:bootstrap
 kadira:flow-router
+twbs:bootstrap@3.3.6
